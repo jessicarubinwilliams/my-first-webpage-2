@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(38, 88, 38);
+  text-align: center;
+  font-style: bold;
+  font-size: 75px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial;
+}
+
+ul {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  color: rgb(228, 36, 68);
+}
